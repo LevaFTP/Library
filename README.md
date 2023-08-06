@@ -1,4 +1,6 @@
 # Library
+Presentation in Polish: 'desc.pdf'<br>
+<br>
 Main window:<br>
 
 ![main](https://github.com/LevaFTP/Library/blob/main/img/1.png)<br>
