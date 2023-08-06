@@ -1,5 +1,5 @@
 # Library
-Presentation in Polish: 'desc.pdf'<br>
+Presentation in Polish: `desc.pdf`<br>
 <br>
 Main window:<br>
 
