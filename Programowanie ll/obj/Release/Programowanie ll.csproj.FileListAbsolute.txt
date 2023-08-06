@@ -1,0 +1,28 @@
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\bin\Release\Programowanie ll.exe.config
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\bin\Release\Programowanie ll.exe
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\bin\Release\Programowanie ll.pdb
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll.csprojAssemblyReference.cache
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\BlackList.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Dac ksiazke.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Dodac ksiazke.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Dodac Studenta.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\MainWindow.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Usun ksiazke.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Usun studenta.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Zwrot.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\App.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll_MarkupCompile.cache
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll_MarkupCompile.lref
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\BlackList.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Dac ksiazke.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Dodac ksiazke.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Dodac Studenta.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\MainWindow.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Usun ksiazke.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Usun studenta.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Zwrot.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll.g.resources
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie_ll.Properties.Resources.resources
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll.csproj.GenerateResource.cache
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll.exe
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Release\Programowanie ll.pdb

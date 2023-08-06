@@ -1,0 +1,56 @@
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\bin\Debug\Programowanie ll.exe.config
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\bin\Debug\Programowanie ll.exe
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\bin\Debug\Programowanie ll.pdb
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\App.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll_MarkupCompile.cache
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll_MarkupCompile.lref
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\MainWindow.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.g.resources
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie_ll.Properties.Resources.resources
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.exe
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.pdb
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\BlackList.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\BlackList.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac Studenta.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun studenta.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac Studenta.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun studenta.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac ksiazke.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun ksiazke.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac ksiazke.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun ksiazke.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dac ksiazke.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Zwrot.g.cs
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dac ksiazke.baml
+C:\Users\Artem\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Zwrot.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\bin\Debug\Programowanie ll.exe.config
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\bin\Debug\Programowanie ll.exe
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\bin\Debug\Programowanie ll.pdb
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.csprojAssemblyReference.cache
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\BlackList.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dac ksiazke.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac ksiazke.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac Studenta.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\MainWindow.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun ksiazke.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun studenta.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Zwrot.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\App.g.cs
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll_MarkupCompile.cache
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll_MarkupCompile.lref
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\BlackList.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dac ksiazke.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac ksiazke.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Dodac Studenta.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\MainWindow.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun ksiazke.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Usun studenta.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Zwrot.baml
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.g.resources
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie_ll.Properties.Resources.resources
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.csproj.GenerateResource.cache
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.exe
+C:\Users\Leva\source\repos\Programowanie ll\Programowanie ll\obj\Debug\Programowanie ll.pdb

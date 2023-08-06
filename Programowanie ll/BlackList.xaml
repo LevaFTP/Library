@@ -1,0 +1,38 @@
+﻿<Window x:Class="Programowanie_ll.BlackList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programowanie_ll"
+        mc:Ignorable="d"
+        Title="Black List" Height="450" Width="800" Background="#343434" ResizeMode="CanMinimize">
+    <Grid TextBlock.FontFamily="Agency FB">
+        <Button Cursor="Hand" Background="#0078d6" Height="60" Width="200" Margin="100,238,494,123" Click="Button_Click">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="170" FontSize="20" Height="40" Foreground="White">Dodac w Black List
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Cursor="Hand" Background="#0078d6" Height="60" Width="200" Margin="100,332,494,29" Click="Button_Click_1">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="160" FontSize="20" Height="40" Foreground="White">Usun z Black List'u
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <ListBox Name="Blist" Foreground="White" FontSize="20" Background="#343434" HorizontalAlignment="Left" Height="352" Margin="355,30,0,0" VerticalAlignment="Top" Width="403"/>
+        <TextBox Name="Name" HorizontalAlignment="Left" Height="24" Margin="100,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="Lastname" HorizontalAlignment="Left" Height="24" Margin="100,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="NRalbumu" HorizontalAlignment="Left" Height="24" Margin="100,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Name: " FontSize="20" HorizontalAlignment="Left" Margin="20,38,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <Label Content="Lastname: " FontSize="20" HorizontalAlignment="Left" Margin="20,76,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <Label Content="Nr. albumu: " FontSize="20" HorizontalAlignment="Left" Margin="20,116,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+    </Grid>
+</Window>

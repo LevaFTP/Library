@@ -1,0 +1,43 @@
+﻿<Window x:Class="Programowanie_ll.Dac_ksiazke"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programowanie_ll"
+        mc:Ignorable="d"
+        Title="Dac_ksiazke" Height="400" Width="450" Background="#343434" ResizeMode="CanMinimize">
+    <Grid TextBlock.FontFamily="Agency FB">
+
+        <Label Content="Name: " FontSize="20" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <Label Content="Lastname: " FontSize="20" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <Label Content="Nr. albumu: " FontSize="20" HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <TextBox Name="name" MaxLength="15" HorizontalAlignment="Left" Height="20" Margin="100,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="lastname" MaxLength="15" HorizontalAlignment="Left" Height="20" Margin="100,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="NRalbumu" MaxLength="6" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Book name: " FontSize="20" HorizontalAlignment="Left" Margin="225,50,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <Label Content="Author: " FontSize="20" HorizontalAlignment="Left" Margin="225,80,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.667,-4.375" Foreground="White"/>
+        <TextBox Name="Bname" MaxLength="24" HorizontalAlignment="Left" Height="20" Margin="310,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="author" MaxLength="20" HorizontalAlignment="Left" Height="20" Margin="310,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+        <Button Cursor="Hand" Background="#0078d6" Height="50" Width="170" Margin="-150,0,0,-250" Click="Button_Click_1">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="100" FontSize="20" Height="40" Foreground="White">CANCEL
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Cursor="Hand" Background="#0078d6" Height="50" Width="170" Margin="240,0,0,-250" Click="Button_Click_2">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="100" FontSize="20" Height="40" Foreground="White">ACCEPT
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+    </Grid>
+</Window>

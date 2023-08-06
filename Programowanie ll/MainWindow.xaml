@@ -1,0 +1,82 @@
+﻿<Window x:Class="Programowanie_ll.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programowanie_ll"
+        mc:Ignorable="d"
+        Title="Biblioteka" Height="600" Width="1200" Background="#343434" ResizeMode="CanMinimize">
+    <Grid TextBlock.FontFamily="Agency FB">
+        <Button Cursor="Hand" Click="Dac_ksiazke" Background="#0078d6" Height="60" Width="200" Margin="-600,0,0,450">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="180" FontSize="20" Height="40" Foreground="White">Daj ksiazke uczniowi
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Cursor="Hand" Click="Zwrot" Background="#0078d6" Height="60" Width="200" Margin="-600,0,0,300">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="190" FontSize="20" Height="40" Foreground="White">Student zwrocil ksiazke
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button  Cursor="Hand" Click="Dodac_ksizke" Background="#0078d6" Height="60" Width="200" Margin="250,0,0,450" >
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="180" FontSize="20" Height="40" Foreground="White">Dodac ksiazke do bazy
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Cursor="Hand" Click="Usun_ksiazke" Background="#0078d6" Height="60" Width="200" Margin="250,0,0,300">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="180" FontSize="20" Height="40" Foreground="White">Usun ksiazke z bazy
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Cursor="Hand" TextBlock.Foreground="White" Click="Dodac_studenta" Background="#0078d6" Height="60" Width="200" Margin="870,0,0,450">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="180" FontSize="20" Height="40" Foreground="White">Dodac ucznia do bazy
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Cursor="Hand" Click="Usun_studenta" Background="#0078d6" Height="60" Width="200" Margin="870,0,0,300">
+            <Button.RenderTransform>
+                <SkewTransform AngleX="-45"/>
+            </Button.RenderTransform>
+            <Label Width="180" FontSize="20" Height="40" Foreground="White">Usun ucznia z bazy
+                <Label.RenderTransform>
+                    <SkewTransform AngleX="45"></SkewTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <Button Click="Open_BlackList" Background="#2c2b2c" Margin="1160,0,0,0"  Cursor="Help">
+            <Label Foreground="White" FontSize="20" Margin="-15,40,-50,0">Black List
+                <Label.RenderTransform>
+                    <RotateTransform Angle="-90"></RotateTransform>
+                </Label.RenderTransform>
+            </Label>
+        </Button>
+        <ListBox Foreground="White" Name="List1" FontSize="22" Background="#343434" HorizontalAlignment="Left" Height="328" Margin="36,202,0,0" VerticalAlignment="Top" Width="462" SelectionChanged="ListBox_SelectionChanged"/>
+        <ListBox Foreground="White" Name="List2" FontSize="20" Background="#343434" HorizontalAlignment="Left" Height="328" Margin="546,202,0,0" VerticalAlignment="Top" Width="278" SelectionChanged="List2_SelectionChanged"/>
+        <ListBox Foreground="White" Name="List3" FontSize="20" Background="#343434" HorizontalAlignment="Left" Height="328" Margin="858,202,0,0" VerticalAlignment="Top" Width="278"/>
+    </Grid>
+
+</Window>
